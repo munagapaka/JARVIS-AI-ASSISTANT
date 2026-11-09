@@ -1,0 +1,6 @@
+google-genai
+sounddevice
+psutil
+pyautogui
+pyperclip
+Pillow
